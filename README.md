@@ -42,8 +42,7 @@ This project performs end-to-end data analysis and classification on a sleep hea
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/sleep-health-lifestyle
-cd sleep-health-lifestyle
+git clone git clone https://github.com/Sayedani-29/sleep-health-lifestyle-
 pip install -r requirements.txt
 jupyter notebook sleep_health_lifestyle.ipynb
 ```
