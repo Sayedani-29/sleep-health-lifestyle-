@@ -51,6 +51,4 @@ jupyter notebook sleep_health_lifestyle.ipynb
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
-
----
+© 2024 Sayedani-29. All rights reserved. This project and its contents may not be reproduced, distributed, or used without explicit permission from the author.
