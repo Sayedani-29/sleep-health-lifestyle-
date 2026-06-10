@@ -50,4 +50,7 @@ jupyter notebook sleep_health_lifestyle.ipynb
 > **Note:** Update the dataset path in the notebook if not using Google Drive.
 
 ## 📄 License
-MIT
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+---
