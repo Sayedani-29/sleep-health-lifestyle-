@@ -51,4 +51,4 @@ jupyter notebook sleep_health_lifestyle.ipynb
 
 ## 📄 License
 
-© 2024 Sayedani-29. All rights reserved. This project and its contents may not be reproduced, distributed, or used without explicit permission from the author.
+***© 2024 Sayedani-29. All rights reserved. This project and its contents may not be reproduced, distributed, or used without explicit permission from the author.***
